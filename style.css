@@ -177,7 +177,8 @@ p{
     }
     .whole-image{
         width: 100%;
-        grid-template-columns: repeat(1, 1fr)
+        grid-template-columns: repeat(1, 1fr);
+        padding:0;
     }
     .image{
         grid-template-columns: repeat(1, 1fr);
@@ -189,6 +190,6 @@ p{
     }
  .footer{
        padding: 0;
-       
+
    }
    }
